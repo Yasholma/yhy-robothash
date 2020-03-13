@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yhy-robothash/static/css/main.f8a6771c.chunk.css",
+    "main.js": "/yhy-robothash/static/js/main.4dbef61f.chunk.js",
+    "main.js.map": "/yhy-robothash/static/js/main.4dbef61f.chunk.js.map",
+    "runtime-main.js": "/yhy-robothash/static/js/runtime-main.a661e08a.js",
+    "runtime-main.js.map": "/yhy-robothash/static/js/runtime-main.a661e08a.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/yhy-robothash/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/yhy-robothash/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/yhy-robothash/index.html",
+    "precache-manifest.c108edf39bf540bfc190c59c0fdaaf20.js": "/yhy-robothash/precache-manifest.c108edf39bf540bfc190c59c0fdaaf20.js",
+    "service-worker.js": "/yhy-robothash/service-worker.js",
+    "static/css/main.f8a6771c.chunk.css.map": "/yhy-robothash/static/css/main.f8a6771c.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/yhy-robothash/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a661e08a.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.f8a6771c.chunk.css",
+    "static/js/main.4dbef61f.chunk.js"
+  ]
+}
